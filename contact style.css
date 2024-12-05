@@ -117,6 +117,7 @@ button {
   cursor: pointer;
    resize: vertical;
   width: 100%;
+     margin-bottom:200px;
 }
 button{
   border-radius:200px;
