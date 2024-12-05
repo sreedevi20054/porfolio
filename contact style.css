@@ -1,0 +1,195 @@
+.links li a {
+    color:white; 
+  
+  /* Set the text color to white */
+ /* Remove underline from links */
+}
+.links li a:hover{
+  text-decoration:underline;
+ text-decoration-style:dotted;
+  
+  
+}
+.landing-page .container1 .links {
+  margin-left:1050px;
+}
+
+body { 
+ background-image: url(https://png.pngtree.com/background/20210715/original/pngtree-creative-colorful-abstract-background-picture-image_1306982.jpg);
+
+  background-attachment: fixed;
+  background-size: cover;
+  
+  
+font-family: 'Open Sans', sans-serif;}
+  
+
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  
+}
+.container {
+  margin-bottom:-10px;
+  color:black;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+/* Start Landing Page */
+.landing-page header {
+  min-height: 80px;
+  display: flex;
+}
+
+  .landing-page header {
+    min-height: auto;
+    display: initial;
+  }
+
+.landing-page header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+
+
+
+.landing-page header .links {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-top:30px;
+}
+
+.landing-page header .links li {
+  margin-left: 30px;
+  color:;
+  cursor: pointer;
+  transition: .3s;
+  margin-bottom:200px;
+  
+}
+
+
+
+.landing-page .image img {
+  width:399px;
+  margin-bottom:100px;
+    margin-left:100px;
+  border-radius:800px;
+  padding:30px;
+}
+
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  border-radius:50px;
+}
+
+ 
+
+body {
+  font-family: Arial, sans-serif;
+  BACKGROUND-COLOR:#151B54;
+}
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding:1px;
+  border: none;
+  cursor: pointer;
+   resize: vertical;
+  width: 100%;
+}
+button{
+  border-radius:200px;
+  width:200px;
+    padding:15px;
+  margin-left:200px;
+  margin-top:30px;
+}
+button:hover {
+  background-color: #45a049;
+}
+
+
+.contact {
+  border-radius: 5px;
+
+  padding: 10px;
+  margin-left:400px;
+}
+
+/* Create two columns that float next to eachother */
+.input{
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+
+.footer-section {
+  padding:5px;
+  background: #151414;
+  bottom:0;
+  position: fixed;
+  display:flex;
+  text-align:center;
+  width:100%;
+  border-radius:500px;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLa_4M71MsVDEk879lY5Cee9BOZ-4lehJh6ZS1dcIl3c28eDzVEn3vgImu-ROMxNe52vs&usqp=CAU);
+ background-attachment: fixed;
+  background-size: cover;   
+}
+.footer-section .container{
+  text-align:left;
+  margin-left:70px;
+ color:green;
+  }
+
+
+
+.cta-text1{
+  color:green;
+}
+
+
+
+.cta-text2 {
+ 
+  color:green;
+  font-size: 20px;
+  margin-bottom:px;
+  margin-right:420px;
+  margin-left:-1px;
+}
+.cta-text2 span{
+  margin-left:-1px;
+  
+ 
+}
+.single-cta{
+ 
+  color:green;
+  margin-right:40px;
+  
+}

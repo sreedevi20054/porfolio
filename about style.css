@@ -1,0 +1,219 @@
+.links li a {
+    color:black; 
+  
+  
+  
+  /* Set the text color to white */
+ /* Remove underline from links */
+}
+
+
+.links li a:hover{
+  text-decoration:underline;
+ text-decoration-style:dotted;
+  
+  
+}
+body { 
+ background-image: url(\https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtwmoTl1LYG01vNpuHdAuAB3efwg4My9UdA&s);
+
+  background-attachment: fixed;
+  background-size: cover;
+  
+  
+font-family: 'Open Sans', sans-serif;}
+  
+
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding:1px;
+  margin: 100;
+  color:blue;
+  
+ 
+  }
+
+
+/* Start Landing Page */
+.landing-page header {
+  min-height: 80px;
+  display: flex;
+}
+
+  .landing-page header {
+    min-height: auto;
+    display: initial;
+  }
+
+
+
+
+
+
+
+
+.landing-page header .links {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  margin-bottom:10px;
+  margin-top:10px;
+  margin-right:10px;
+}
+
+.landing-page header .links li {
+margin-left: 10px;
+  color: black;
+  cursor: pointer;
+  transition:.3s;
+  margin-bottom:120px;
+  margin-top:10px;
+  margin-right:10px;
+  padding:10px;
+  
+}
+.landing-page .container1 .links {
+  margin-left:1050px;
+  
+}
+ body {
+    font-family: Arial, sans-serif;
+    margin-bottom:200px;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.aboutme{
+  margin-top:-100px;
+  color:black;
+}
+.aboutme p{
+  font-size:25px;
+  color:black;
+}
+
+
+header {
+    
+}
+
+main {
+    padding: 10px;
+}
+
+.my img{
+  border-radius:10500px;
+}
+.project {
+    background-color: ;
+    margin-left: 300px ;
+  margin-right: 300px ;
+    padding: -6px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+     
+  width:60%;
+  display:flex;
+  text-align:center;
+  justify-content:space-between;
+  margin-bottom:80px;
+  
+  
+
+}
+
+.project2 {
+    margin-bottom:50px;
+    color: blue;
+  margin-right:70px;
+  text-align:center;
+}
+
+.project1 img {
+    max-width: 60%;
+    border-radius: 30px;
+}
+.project2 img {
+    max-width: 300px;
+    border-radius: 30px;
+}
+.project1{
+  text-align:center;
+  color:black;
+  display:;
+  margin-top:20px;
+  
+}
+.tex1{
+  margin-top:60px;
+  color:black;
+}
+h1{
+  text-align:center;
+  font-family:Comic Sans MS;
+  color:green;
+  font-size:40px;
+}
+.aboutme h1{
+  color:green;
+  margin-bottom:px;
+  padding:-30px;
+  text-decoration:;
+  
+  
+}
+.aboutme p{
+  color :black;
+  text-align:CENTER;
+  font-family:cursive;
+  font-size:21px;
+} 
+.footer-section {
+  margin:10px;
+  padding:3px;
+  background: #151414;
+  bottom:0;
+  position: fixed;
+  display:flex;
+  text-align:center;
+  width:98%;
+  border-radius:1500px;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLa_4M71MsVDEk879lY5Cee9BOZ-4lehJh6ZS1dcIl3c28eDzVEn3vgImu-ROMxNe52vs&usqp=CAU);
+ background-attachment: fixed;
+  background-size: cover;   
+}
+.footer-section .container{
+  text-align:center;
+  margin-left:50px;
+ color:green;
+  }
+
+
+}
+.cta-text1{
+  color:green;
+}
+
+
+
+.cta-text2 {
+ 
+  color:green;
+  font-size: 20px;
+  font-weight:;
+  margin-bottom:3px;
+  margin-right:500px;
+}
+.cta-text2 {
+  margin-left:150px;
+  
+ 
+}
+.single-cta{
+ 
+  color:green;
+  margin-left:-50px;
+  
+}

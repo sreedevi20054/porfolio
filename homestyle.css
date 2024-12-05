@@ -1,0 +1,202 @@
+.links li a {
+    color:white; 
+  /* Set the text color to white */
+ /* Remove underline from links */
+}
+.links li a:hover{
+  text-decoration:underline;
+ text-decoration-style:dotted;
+  
+  
+}
+
+/* This will make only the "Get Started" link text white */
+
+
+body { 
+ background-image: url(https://media.istockphoto.com/id/1418628408/vector/abstract-blurred-gradient-background-colours-with-dynamic-effect.jpg?s=612x612&w=0&k=20&c=v7ja1vfncSbHdNsgyjbtaiOPiexqUOLhRW_4L3PQ1ww=);
+
+  background-attachment: fixed;
+  background-size: cover;
+  
+  
+font-family: 'Open Sans', sans-serif;}
+  
+
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  
+}
+.container {
+  color:#FFC000;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+/* Start Landing Page */
+.landing-page header {
+  min-height: 80px;
+  display: flex;
+}
+
+  .landing-page header {
+    min-height: auto;
+    display: initial;
+  }
+
+.landing-page header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.landing-page header .logo h1 {
+  color: black;
+  font-style: italic;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-left:230px;
+  font-size:42px;
+  margin-top:40px;
+  margin-top:60px;
+}
+.landing-page header .logo h3 {
+  color: black;
+  font-style: italic;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-left:300px;
+  font-size:42px;
+  font-family:Comic Sans MS;
+  margin-top:80px;
+}
+.landing-page header .logo h1 {
+    text-shadow: 0 0 8px #FFFF66, 0 0 390px #FFFF66,0 0 70px #FFFF66, 0 0 80px #FFFF66;
+  font-family:Comic Sans MS;
+  text-thickness;1px;
+  margin-top:1px;
+  
+}
+
+
+.landing-page header .links {
+  display: flex;
+  align-items: center;
+  margin-right:200px;
+  margin-top:20px;
+}
+
+.landing-page header .links li {
+  margin-left: 40px;
+  color: #5d5d5d;
+  cursor: pointer;
+  transition: .3s;
+  margin-bottom:200px;
+  
+}
+
+
+
+
+.landing-page .content .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 140px;
+  min-height: calc(100vh - 80px);
+  margin-bottom:50px;
+  margin-left:100px;
+}
+
+.landing-page .content .info
+{
+  margin-bottom:300px;
+}
+.landing-page .content .info h1 {
+  color: blue;
+  font-size: 40px;
+  FONT-FAMILY:Sitka Banner;
+   margin-left:90px;
+}
+.landing-page .content .info p {
+  margin: 0;
+  line-height:1; 
+  font-size: 25px;
+  color: #5d5d5d;
+  margin-left:90px;
+
+}
+.landing-page .content .info button {
+  border: 0;
+  border-radius: 20px;
+  padding: 12px 30px;
+  margin-top: 30px;
+  cursor: pointer;
+  color: ;
+  background-color:#FFC000;
+  
+margin-left:260px;
+  
+
+}
+.landing-page .content .image img {
+  width:399px;
+  margin-bottom:100px;
+  border-radius:1000px;
+  padding:30px;
+  border-width:3px;
+    border-color:black;
+}
+
+
+.footer-section {
+  padding:5px;
+  background: #151414;
+  bottom:0;
+  position: fixed;
+  display:flex;
+  text-align:center;
+  width:100%;
+  border-radius:50px;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLa_4M71MsVDEk879lY5Cee9BOZ-4lehJh6ZS1dcIl3c28eDzVEn3vgImu-ROMxNe52vs&usqp=CAU);
+ background-attachment: fixed;
+  background-size: cover; 
+  margin-right:100px;  
+}
+.footer-section .container{
+  text-align:left;
+  margin-left:50px;
+  
+  
+  }
+.cta-text1{
+  color:green;
+}
+
+.cta-text2 {
+ 
+  color:green;
+  font-size: 20px;
+  font-weight: ;
+  margin-bottom:px;
+  margin-right:500px;
+}
+.cta-text2 span{
+  margin-left:15px;
+ 
+}
+.single-cta{
+ 
+  color:green;
+  margin-left:-60px;
+  
+}
