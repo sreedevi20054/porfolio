@@ -148,7 +148,7 @@ button:hover {
 /* Clear floats after the columns */
 
 .footer-section {
-  padding:5px;
+  padding:2px;
   background: #151414;
   bottom:0;
   position: fixed;
@@ -179,17 +179,26 @@ button:hover {
   color:green;
   font-size: 20px;
   margin-bottom:px;
-  margin-right:420px;
-  margin-left:-1px;
+  margin-right:300px;
+  margin-left:100px;
 }
 .cta-text2 span{
   margin-left:-1px;
   
- 
+  
+}
+.cta-text2 a{
+  color:green;
 }
 .single-cta{
  
   color:green;
   margin-right:40px;
   
+}
+.cta-text3{
+  margin-right: 100px;
+}
+.cta-text3 a{
+  COLOR:GREEN;
 }

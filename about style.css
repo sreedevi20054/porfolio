@@ -204,16 +204,28 @@ h1{
   font-size: 20px;
   font-weight:;
   margin-bottom:3px;
-  margin-right:500px;
+  margin-right:300px;
+  margin-left:200px;
+
 }
-.cta-text2 {
-  margin-left:150px;
+.cta-text2 a{
+  color:green;
+}
+  
   
  
-}
+
 .single-cta{
  
   color:green;
   margin-left:-50px;
   
 }
+.cta-text3{
+  COLOR:GREEN;
+}
+
+.cta-text3 a{
+  COLOR:GREEN;
+}
+

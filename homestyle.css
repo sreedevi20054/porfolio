@@ -159,7 +159,7 @@ margin-left:260px;
 
 
 .footer-section {
-  padding:5px;
+  padding:2px;
   background: #151414;
   bottom:0;
   position: fixed;
@@ -188,15 +188,25 @@ margin-left:260px;
   font-size: 20px;
   font-weight: ;
   margin-bottom:px;
-  margin-right:500px;
+  margin-right:400px;
+  margin-left:100px;
 }
 .cta-text2 span{
   margin-left:15px;
  
+}
+.cta-text2 a{
+  color:green;
 }
 .single-cta{
  
   color:green;
   margin-left:-60px;
   
+}
+.cta-text3{
+    margin-right: 100px;
+}
+.cta-text3 a{
+  COLOR:GREEN;
 }
